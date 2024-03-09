@@ -1,4 +1,4 @@
-#finding odd or even numbers
+# odd or even numbers
 
 num = int(input("Enter a number: "))
 if (num % 2) == 0:
